@@ -1,2 +1,3 @@
 # project_samar
-project samar
+- Project sữ dụng các thư viện để tạo hiệu ứng aniamtion cho Webpage: LightGallery, Owl-Carousel, WOW, Swiper,...
+- Project responsive cho website bằng CSS thuần: display và grid
